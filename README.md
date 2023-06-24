@@ -1,7 +1,7 @@
 <img height="150" src="https://img.shields.io/badge/Cetpa Infotech PVT LTD-blue.svg?&style=for-the-badge&logo=CetpaInfotechPVTLTD&logoColor=blue" />
 
 <img height="55" src="https://img.shields.io/badge/Training-Data Science using Python-red.svg?&style=for-the-badge&logo=CetpaInfotechPVTLTD&logoColor=red" />
-<img height="37" src="https://img.shields.io/badge/Author -Abhijeet Raj Modanwal-blue.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<img height="37" src="https://img.shields.io/badge/Author -Abhijeet Raj Modanwal-blue.svg?&style=for-the-badge&logo=CetpaInfotechPVTLTD&logoColor=blue" />
 <img height="33" src="https://img.shields.io/badge/Hello!-Welcome to this repo-brightgreen.svg?style=flat&logo=github" />
 
  [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
@@ -23,9 +23,11 @@ basic as well as advanced charts <br>
 <a href="https://github.com/CSSEGISandData/COVID-19">Dataset</a><img align = right height = 25 width = 25 src = https://s3-ie-newseyekanet.s3.amazonaws.com/wp-content/uploads/2012/07/eyeka-creativity-survey-dataset-csv-icon.jpg>
 
 > Solution:
-<a href="https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict/blob/86eb42c4eac4f8a9033d2ea6126a25a4b126d64d/india-world-covid-19-anlyz-visualiz-predicts.ipynb">Covid-19 Analysis </a><img align = right height = 25 width = 25 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>
+<a href="https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict/blob/86eb42c4eac4f8a9033d2ea6126a25a4b126d64d/india-world-covid-19-anlyz-visualiz-predicts.ipynb">Covid-19 Analysis or </a><a href="https://www.kaggle.com/code/abhijeetraj22/india-world-covid-19-anlyz-visualiz-predict">Kaggle Notebook</a><img align = right height = 25 width = 25 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>
 
 <br><br>
+
+<img height="55" src="https://img.shields.io/badge/Training-Certificate-blue.svg?&style=for-the-badge&logo=CetpaInfotechPVTLTD&logoColor=blue" />
 
 ## Connect with me! 🌐
 
