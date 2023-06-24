@@ -29,12 +29,13 @@ basic as well as advanced charts <br>
 
 <img height="55" src="https://img.shields.io/badge/Training-Certificate-blue.svg?&style=for-the-badge&logo=CetpaInfotechPVTLTD&logoColor=blue" />
 
+![](https://github.com/abhijeetraj22/India-World-COVID-19-Anlyz-Visualiz-Predict/blob/main/ABHIJEET%20RAJ%20MODANWALcetpA.jpg)
+
 ## Connect with me! 🌐
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/youtube.png" title="Youtube">](https://www.youtube.com/channel/UCWbEfUEBQPycfbVWUMnvnuA/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/gmail.png" title="Gmail">](mailto:abhijeetraj22@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/rajabhijeet22/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/abhijeetraj22)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://www.instagram.com/abhijeet_raj_/?hl=en) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="LinkedIn">](https://twitter.com/abhijeet_raj_/)
-
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/rajabhijeet22/)       [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/abhijeetraj22)
 
 
 <p align="center">
